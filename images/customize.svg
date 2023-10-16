@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_53683" data-name="Rectangle 53683" width="30" height="30" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="AI_Builder_Icon" data-name="AI Builder_Icon" clip-path="url(#clip-path)">
+    <g id="Group_171836" data-name="Group 171836" transform="translate(6 4.688)">
+      <path id="Path_171941" data-name="Path 171941" d="M5.519,1.52A3.689,3.689,0,0,0,1.84,5.2V18.466a3.689,3.689,0,0,0,3.679,3.679H7.647a3.689,3.689,0,0,0,3.658-3.679V1.52ZM7.926,17.691A1.395,1.395,0,0,1,5.188,17.6a.889.889,0,0,1,0-.238,1.405,1.405,0,0,1,2.8,0,1.157,1.157,0,0,1-.062.331Z" transform="translate(-1.84 -1.52)" fill="#fff"/>
+      <path id="Path_171940" data-name="Path 171940" d="M9.821,20.824a.672.672,0,0,1-.557-1.046L16.081,9.6A2.346,2.346,0,0,0,15.429,6.4l-1.779-1.21A.672.672,0,0,1,14.4,4.076l1.777,1.209A3.679,3.679,0,0,1,17.2,10.34l0,.007L10.38,20.526A.671.671,0,0,1,9.821,20.824Z" transform="translate(-1.597 -1.439)" fill="#fff"/>
+      <path id="Path_171941-2" data-name="Path 171941" d="M8.071,21.74a.672.672,0,0,1-.187-1.317l10.695-3.1a2.349,2.349,0,0,0,1.608-2.9l-.6-2.064a.672.672,0,1,1,1.29-.374l.6,2.067a3.694,3.694,0,0,1-2.526,4.563l-10.693,3.1A.672.672,0,0,1,8.071,21.74Z" transform="translate(-1.655 -1.188)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
